@@ -6,6 +6,7 @@ public class Ejercicios {
 		System.out.println("Hola mundo!!!");
 		System.out.println("Voy a hacer un pull!!!");
 		System.out.println("Voy a hacer un push como colaborador!!!!");
+		System.out.println("es fantastico cuando funciona!!!!");
 	}
 
 }
